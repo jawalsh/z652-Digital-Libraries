@@ -2,7 +2,7 @@
 [cb]: https://collectionbuilder.github.io "Collection Builder Home"
 [omekanet]: https://omeka.net/ "Omeka hosted service"
 [omekaorg]: https://omeka.org/ "Omeka Home"
-
+{% include_relative header.md %}
 # Contents
 - [General information](general.md)
 - [Schedule](schedule.md)
