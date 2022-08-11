@@ -3,24 +3,7 @@
 [omekanet]: https://omeka.net/ "Omeka hosted service"
 [omekaorg]: https://omeka.org/ "Omeka Home"
 
-# Z652 Digital Libraries, Fall 2022, Section XXXXX
-9:10 - 11:45 Friday
-Myles Brand Hall (I) 232  
-*Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), jawalsh@indiana.edu, Luddy Hall 2132.  
-*Office Hours:* Monday 3pm - 4:40pm and by appointment.
-
-
-# Assignments (100 points total)
-* Partial Metadata Scheme (20 pts.)
-* Final Project Proposal (10 pts.)
-* Final Project (Omeka Collection) (50 pts.)
-* Lab exercises (10 pts.)
-* Participation (10 pts.)
-
-
-
-
----
+{% include_relative header.md %}
 
 # Schedule
 * Week 1 _(2022-08-26)_: Introductions
