@@ -3,3 +3,5 @@
 Myles Brand Hall (I) 232  
 *Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), jawalsh@indiana.edu, Luddy Hall 2132.  
 *Office Hours:* Monday 3pm - 4:40pm and by appointment.
+
+[home](index.md) | [general information](general.md) | [schedule](schedule.md) | [assignments](assignments.md)
