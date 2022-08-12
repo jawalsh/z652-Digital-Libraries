@@ -6,19 +6,19 @@
 {% include_relative header.md %}
 
 # Schedule
-* Week 1 _(2022-08-26)_: Introductions
-* Week 2 _(2022-09-02)_: Omeka and CollectionBuilder 
-* Week 3 _(2022-09-09)_: Text Objects 1
-* Week 4 _(2022-09-16)_: Text Objects 2
-* Week 5 _(2022-09-23)_: Omeka and CollectionBuilder
-* Week 6 _(2022-09-30)_: Metadata 1
-* Week 7 _(2022-10-07)_: Metadata 2
-* Week 8 _(2022-10-14)_: Fall Break
-* Week 9 _(2022-10-21)_: Image Objects 1
-* Week 10 _(2022-10-28)_: Image Objects 2
-* Week 11 _(2022-11-04)_: Omeka 2
-* Week 12 _(2022-11-11)_: Omeka 3
-* Week 13 _(2022-11-18)_: Omeka 4
+* [Week 1](Week01.md) _(2022-08-26)_: Introductions
+* [Week 2](Week02.md) _(2022-09-02)_: GitHub & Markdown 
+* [Week 3](Week03.md) _(2022-09-09)_: Text Objects 1
+* [Week 4](Week04.md) _(2022-09-16)_: Text Objects 2
+* [Week 5](Week05.md) _(2022-09-23)_: Omeka and CollectionBuilder
+* [Week 6](Week06.md) _(2022-09-30)_: Metadata 1
+* [Week 7](Week07.md) _(2022-10-07)_: Metadata 2
+* [Week 8](Week08.md) _(2022-10-14)_: Fall Break
+* [Week 9](Week09.md) _(2022-10-21)_: Image Objects 1
+* [Week 10](Week10.md) _(2022-10-28)_: Image Objects 2
+* [Week 11](Week11.md) _(2022-11-04)_: Omeka 2
+* [Week 12](Week12.md) _(2022-11-11)_: Omeka 3
+* [Week 13](Week13.md) _(2022-11-18)_: Omeka 4
 
 ## Week 2 _2020-09-02_: Text Objects, Part 1
 
