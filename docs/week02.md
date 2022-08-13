@@ -12,9 +12,15 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
  
 
 ## Readings and Resources
+### Markdown
 - Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
 - Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
-- Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome><https://www.linkedin.com/learning/learning-git-and-github-14213624/>
+### Git and GitHub 
+- Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-git-and-github-14213624/>
+- Git Basics Episode 1: What is Version Contronl? <https://git-scm.com/video/what-is-version-control>
+- Git Basics Episode 2: What is Git? <https://git-scm.com/video/what-is-git>
+- Git Basics Episode 3: Get Going with Git <https://git-scm.com/video/get-going>
+- Git Basics Episode 4: Quick Wins with Git <https://git-scm.com/video/quick-wins>
  
 # To-Do
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
