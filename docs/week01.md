@@ -1,6 +1,5 @@
-# Week 1
+# Week 1: Introductions
  
-
 ## Summary
 This week we will go over some of the course basics, syllabus, and assignments. Following that we will begin to explore some basic topics related to digital libraries, including definitions of digital libraries, books and libraries as technology, digital objects, the role of metadata in digital libraries, and copyright.
 
