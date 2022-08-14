@@ -12,7 +12,8 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - Use online tools to *investigate* the U.S. **copyright** status of published works.
  
 
-## Readings and Resources
+## Before class: Readings, Resources, and Tasks
+### Readings
 - Digital Libraries
 	- [Witten, Bainbridge, and Nichols](http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc): Chapter 1
 	- <http://en.wikipedia.org/wiki/Digital_library>
@@ -30,6 +31,9 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - Extras
 	- Documentation available at [HathiTrust](http://www.hathitrust.org/digital_library)
 	- You may also wish to explore some of IU’s digital collections at <http://dlib.indiana.edu/collections>
+	
+### Tasks
+- By 5pm Thursday, introduce yourself to the class by providing a short video introduction in the [Welcome to z652-Digital-Libraries](https://github.com/jawalsh/z652-Digital-Libraries/discussions/1) discussion.
  
 
 # To-Do

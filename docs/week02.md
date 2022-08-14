@@ -1,17 +1,13 @@
 # Week 2: Markdown and Github
 
-
 ## Summary
 This week we will learn about Markdown, Git, and Github, technologies that will be used to develop your digital collections in this class and that are generally useful skills for digital and technical information work.
  
-
 ## Weekly Learning Objectives
 - _Use_ markdown to author a document and generate an HTML version of that document.
 - _Use_ GitHub to create a new repository and add documents to the repository.
 
- 
-
-## Readings and Resources
+## Before class: Readings, Resources, and Tasks
 ### Markdown
 - Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
 - Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
