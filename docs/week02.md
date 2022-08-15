@@ -11,6 +11,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 ### Markdown
 - Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
 - Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
+
 ### Git and GitHub 
 - Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-git-and-github-14213624/>
 - Git Basics Episode 1: What is Version Contronl? <https://git-scm.com/video/what-is-version-control>
