@@ -34,6 +34,7 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 	
 ### Tasks
 - By 5pm Thursday, introduce yourself to the class by providing a short video introduction in the [Welcome to z652-Digital-Libraries](https://github.com/jawalsh/z652-Digital-Libraries/discussions/1) discussion.
+- If you don't already have one, create a free account on GitHub.com, and send your GitHub username to Alex Wingate in an email with the subject “My GitHub username.”
  
 
 # To-Do
