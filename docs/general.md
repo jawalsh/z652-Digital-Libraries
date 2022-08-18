@@ -25,6 +25,12 @@ Our two textbooks are:
 * Miller's _Metadata for Digital Collections_ (2022). Miller's book should be on reserve by September 1st. See IUCAT: <http://www.iucat.iu.edu/catalog/10090471>.
 
 ## Additional Resources
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp)
+* [W3Schools CSS element reference](https://www.w3schools.com/cssref/default.asp)
+* [W3Schools HTML tutorial](https://www.w3schools.com/html/default.asp)
+* [W3Schools HTML element reference](https://www.w3schools.com/tags/default.asp)
+* [Butterick's Practical Typography](https://practicaltypography.com/)
 ### IU Resources
 * [IT Training from UITS](http://ittraining.iu.edu)
 * [IU Libraries' Digital Collections](http://dlib.indiana.edu/collections/)
