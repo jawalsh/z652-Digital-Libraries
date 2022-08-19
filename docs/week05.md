@@ -22,20 +22,14 @@
 - Install Oxygen XML software from <https://iuware.iu.edu/>.
 
 ## In class
+<!--
 
----
 
 Text Objects, Part 2 (XML)
 ### Before Class
 #### Readings
 
-#### Response
-1. In no more than one page, single-spaced, please respond in writing to the following questions —
-	* What are some advantages of XML? Disadvantages?
-	* What is the difference between validity and well-formedness in XML?
-	* Do you have technical questions or any areas of confusion about XML?
-	* What is your general reaction to the readings?
-2. Enter your responses in the text box or upload your document in the Canvas assignment [Session 3 Pre-Class Response].
+
 
 ### In-class
 * From last week: OCR on the command line with Tesseract
@@ -61,3 +55,5 @@ Text Objects, Part 2 (XML)
 
 
 *Tech Talk:* [FineReader](http://finereader.abbyy.com) and [Tesseract-OCR](https://code.google.com/p/
+
+-->
