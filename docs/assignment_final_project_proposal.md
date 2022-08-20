@@ -23,4 +23,4 @@ By planning early for your final project you will be in a better position to pro
 
 	## Criteria for Success
 
-- See [rubric]().
+- See [rubric](rubric_final_project_proposal.md).
