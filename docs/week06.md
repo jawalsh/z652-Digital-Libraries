@@ -23,10 +23,10 @@ We will learn about what metadata is, different types of metadata, what it's use
 - Metadata Application Profile assignment
  - Skim the instructions for the metadata application profile assignment
  - Come to class with any initial questions
-
 ### Tasks
  - READ: Please complete the readings outlined above by: Thursday, 5pm.
  - DISCUSS: Please complete this week's discussion by: Thursday, 5pm.
+
 ## In class
 - Introduction to metadata
 - Functional requirements
