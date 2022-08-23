@@ -24,6 +24,19 @@ Our two textbooks are:
 * Witten, Bainbridge, and Nichols’ _How to Build a Digital Library_ (2010), available online through IUCAT at <http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc>
 * Miller's _Metadata for Digital Collections_ (2022). Miller's book should be on reserve by September 1st. See IUCAT: <http://www.iucat.iu.edu/catalog/10090471>.
 
+## Tools
+
+We will be using the following tools, software, frameworks:
+
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Oxygen XML Editor](http://oxygenxml.com)
+	- Available to IU students, faculty and staff through <https://iuware.iu.edu>
+- [CollectionBuilder](https://collectionbuilder.github.io)
+- [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+	- Available to IU students, faculty and staff through <https://iuware.iu.edu>
+- [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+- [ImageMagick](https://imagemagick.org)
+
 ## Additional Resources
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp)
@@ -45,7 +58,6 @@ Our two textbooks are:
 * [CLIR](http://www.clir.org/pubs/reports/)
 * [D-lib Magazine](http://www.dlib.org/)
 * [Digital Library Federation](http://diglib.org/) (DLF)
-* [syllabus](syllabus.md)
 
 ## Sexual Harassment
 

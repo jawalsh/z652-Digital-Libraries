@@ -19,7 +19,6 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - Git Basics Episode 3: Get Going with Git <https://git-scm.com/video/get-going>
 - Git Basics Episode 4: Quick Wins with Git <https://git-scm.com/video/quick-wins>
  
-# To-Do
-- READ: Please complete the readings outlined above by: Thursday, 5pm.
-- WATCH: Please watch and respond to the lecture video by: Thursday, 5pm.
-- DISCUSS: Please complete this week's discussion by:Thursday, 5pm.
+### Tasks
+- Install Visual Studio Code from <https://code.visualstudio.com> (available for MacOS, Windows, and Linux).
+
