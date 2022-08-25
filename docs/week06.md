@@ -8,7 +8,7 @@ We will learn about what metadata is, different types of metadata, what it's use
 - _distinguish_ between types of metadata and metadata standards
 - _design_ "functional requirements" to guide creating a metadata application profile
 - _identify_ relevant Dublin Core elements for a given item
-
+- *identify* one or more example metadata application profiles that may serve as models for your CollectionBuilder project
 ## Before class: Readings, resources, and tasks
 ### Readings
 - Metadata basics
