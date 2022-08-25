@@ -21,4 +21,5 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
  
 ### Tasks
 - Install Visual Studio Code from <https://code.visualstudio.com> (available for MacOS, Windows, and Linux).
+- Install GitHub Desktop from <https://desktop.github.com> (available for MacOS, Windows, and Linux).
 

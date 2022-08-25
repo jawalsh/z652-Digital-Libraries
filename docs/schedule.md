@@ -19,3 +19,14 @@
 * [Week 11](week11.md) _(2022-11-04)_: CollectionBuilder
 * [Week 12](week12.md) _(2022-11-11)_: CollectionBuilder
 * [Week 13](week13.md) _(2022-11-18)_: CollectionBuilder
+
+<!--
+	
+CollectionBuilder topics:
+
+- CB metadata. <https://collectionbuilder.github.io/cb-docs/docs/metadata/>
+- CB theme optoins. <https://collectionbuilder.github.io/cb-docs/docs/theme/>
+- CB edit pages. <https://collectionbuilder.github.io/cb-docs/docs/pages/>
+- CB 
+
+-->
