@@ -30,3 +30,8 @@ In Canvas, submit:
 
 1. In the final project assignment in Canvas, submit your short report (item 2 above_ and inlcude a link to your prototype collection (item 1 above) in the report.
 2. In the Final Project Presentation discussion on GitHub, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
+
+## Criteria for Success
+
+- See [rubric](rubric_final_project.md).
+
