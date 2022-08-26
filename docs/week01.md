@@ -35,3 +35,7 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 ### Tasks
 - By 5pm Thursday, introduce yourself to the class by providing a short video introduction in the [Welcome to z652-Digital-Libraries](https://github.com/jawalsh/z652-Digital-Libraries/discussions/1) discussion.
 - By 5pm Thursday, respond to the ["What are digital libraries?"](https://github.com/jawalsh/z652-Digital-Libraries/discussions/4) discussion.
+
+## In Class
+- Course introduction.
+- [Exploring digital collections](https://github.com/jawalsh/z652-Digital-Libraries/discussions/13) activity.
