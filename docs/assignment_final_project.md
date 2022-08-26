@@ -2,7 +2,7 @@
 # Final Projecet
 
 ## Purpose
-You will build a digital collection with [CollectionBuilder][cb] to gain competence with CollectionBuilder and integrate and demonstrate your knowedge and skills about digitization and metadata for digital collections.
+You will build a digital collection with [CollectionBuilder][cb] to gain competence with CollectionBuilder and integrate and demonstrate knowledge and skills of digitization and metadata for digital collections.
 
 ## Scenario
 You are the digital projects librarian at a small liberal arts college. The library is evaluating CollectionBuilder as a platform for showcasing digitized collections from the college’s libraries and special collections. You have been asked to created a prototype collection in CollectionBuilder to demonstrate and report on the framework’s capabilities.
@@ -28,5 +28,5 @@ You are the digital projects librarian at a small liberal arts college. The libr
 
 In Canvas, submit:
 
-1. In the final project assignment in Canvas, submit your short report and inlcude a link to your prototype collection in the report.
-2. In the final project presentation discussion on GitHub, include a link to a 5-7 minute video presentation about your final project, posted in Final Project Presentation.
+1. In the final project assignment in Canvas, submit your short report (item 2 above_ and inlcude a link to your prototype collection (item 1 above) in the report.
+2. In the Final Project Presentation discussion on GitHub, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
