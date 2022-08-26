@@ -18,7 +18,7 @@
 - Relevant existing controlled vocabularies and content standards and/or project-specific controlled vocabularies and content standards are used;
 - Your report to library administrators and senior IT staff and your video presentation are thoughtful and supported by specifics and details from your experience working with CollectionBuilder.
 
-## For a grade of A your prototype must be complete and competent, demonstrate your ability to implement a collection on the Omeka platform, include advanced metadata features beyond simple Dublin Core, and demonstrate—in the writing and presentation—a level of professionalism matching a typical high-quality online collection published by an academic library.
+## For a grade of A your prototype must be complete and competent, demonstrate your ability to implement a collection on the CollectionBuilder framework, include advanced metadata features beyond simple Dublin Core, and demonstrate—in the writing and presentation—a level of professionalism matching a typical high-quality online collection published by an academic library.
 - The standards for the B grade are met;
 - Your collection makes use of CollectionBuilder’s “Feature Includes” to add additional features and functionality. See <https://collectionbuilder.github.io/cb-docs/docs/pages/features/>. 
 - An “About” page is included with a summary of the staff (you), acknowledgments of those who contributed to the project; the technical and metadata standards used in the collection; and any applicable rights and use information;
