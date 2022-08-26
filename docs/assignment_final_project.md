@@ -28,5 +28,5 @@ You are the digital projects librarian at a small liberal arts college. The libr
 
 In Canvas, submit:
 
-1. In the final project assignment in Canvas, submit your short report and inlcude a link to your prototype collection in the reprot.
+1. In the final project assignment in Canvas, submit your short report and inlcude a link to your prototype collection in the report.
 2. In the final project presentation discussion on GitHub, include a link to a 5-7 minute video presentation about your final project, posted in Final Project Presentation.
