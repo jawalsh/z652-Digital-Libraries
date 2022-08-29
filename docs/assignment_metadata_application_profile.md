@@ -30,6 +30,5 @@ For all fields specify:
 - content guidelines
 - applicable controlled vocabularies or syntax encoding shemes (with links)
 - mapping to Dublin Core
-- content guidelines
 - notes, if relevant
 - examples
