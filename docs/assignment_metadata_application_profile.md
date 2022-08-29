@@ -28,8 +28,8 @@ Choose at least __two__ of the required CollectionBuilder fields for visualizati
 Specify the obligation and cardinality for each field, as well as any controlled vocabularies or syntax encoding schemes you plan on using. Include some content guidelines, even if minimal. 
 
 ### Custom fields
-Select  at least __seven__ fields, at least three of which should be Dublin Core elements and one should be non-Dublin Core. __Any visualization fields included in addition to the two required in the previous section can count towards the seven. _Date_ and _subject_ may count towards your Dublin Core quota.__  
+Select  at least __seven__ fields, at least __three__ of which should be Dublin Core elements and __one__ should be non-Dublin Core. __Any visualization fields included in addition to the two required in the previous section can count towards the seven. _Date_ and _subject_ may count towards your Dublin Core quota.__  
 The rest may be Dublin Core or non-Dublin Core. You are welcome to have more than six fields, especially if it would assist in fulfilling functional requirements.  
-For each, specify where the field comes from (Dublin Core, another set, or custom), obligation and cardinality, any controlled vocabularies or syntax encoding schemes you are using, and at least minimal content guidelines.  
+For each field, specify where the element comes from (Dublin Core, another set, or custom), obligation and cardinality, any controlled vocabularies or syntax encoding schemes you are using, and at least minimal content guidelines.  
 For non-Dublin Core fields, specify how they would map to the Dublin Core elements. 
 
