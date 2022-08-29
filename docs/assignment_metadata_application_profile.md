@@ -17,7 +17,7 @@ You should also indicate in this section which metadata fields (each of which yo
 ## Selection and description of elements
 Select, customize, and document an element set and element specifications that will meet those functional requirements and connect the intended users to the digital content in the organizational context.  
 ### Required Fields for CollectionBuilder-GH
-For the required fields of CollectionBuilder-GH (objectid, filename, title, and format, plus youtubeid and vimeoid if applicable), specify the obligation and cardinality for each field, any applicable controlled vocabularies, and include content guidelines.
+For the required fields of CollectionBuilder-GH (objectid, filename, title, and format, plus youtubeid and vimeoid if applicable), specify the obligation and cardinality for each field, any applicable controlled vocabularies, and include content guidelines. Specify how these fields would map to Dublin Core fields.
 
 ### Fields for Visualization for CollectionBuilder-GH
 Choose at least __two__ of the required CollectionBuilder fields for visualizations (but you can absolutely choose more!) 
