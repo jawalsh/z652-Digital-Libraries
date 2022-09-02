@@ -44,7 +44,7 @@ Homework—Set up an instance of CollectionBuilder-GH following these steps (lin
 2. Copy the CollectionBuilder-GH template (follow the “Generate from Template” documentation and choose the “GH (GitHub pages)” repository option: <https://collectionbuilder.github.io/cb-docs/docs/repository/create/#generate-from-template>)
 3. Turn on GitHub Pages (<https://collectionbuilder.github.io/cb-docs/docs/deploy/gh-pages/>)
 4. Objects:
-	- Click this link to download a zipped folder of demo digital collection media files: https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip
+	- Click this link to download a zipped folder of demo digital collection media files: <https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip>
 	- Once downloaded, right click the zipped folder and select “extract all” or “unzip” to unzip the folder.
 	- Add all of the files in the folder you just unzipped to the “objects” folder in your CollectionBuilder GitHub repository (https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/)
 5. Metadata:
