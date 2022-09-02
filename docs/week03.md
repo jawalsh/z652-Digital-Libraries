@@ -46,7 +46,7 @@ Homework—Set up an instance of CollectionBuilder-GH following these steps (lin
 4. Objects:
 	- Click this link to download a zipped folder of demo digital collection media files: <https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip>
 	- Once downloaded, right click the zipped folder and select “extract all” or “unzip” to unzip the folder.
-	- Add all of the files in the folder you just unzipped to the “objects” folder in your CollectionBuilder GitHub repository (https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/)
+	- Add all of the files in the folder you just unzipped to the “objects” folder in your CollectionBuilder GitHub repository (<https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/>)
 5. Metadata:
 	- Log in to Google Drive, then click on the following link to copy a demo metadata spreadsheet for your collection: <https://docs.google.com/spreadsheets/d/1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4/copy>
 	- Follow the documentation to download your metadata spreadsheet as a CSV from Google Sheets, then upload it to the “_data” folder in your repository (<https://collectionbuilder.github.io/cb-docs/docs/metadata/uploading/>)
