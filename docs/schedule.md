@@ -7,7 +7,9 @@
 
 # Schedule
 * [Week 1](week01.md) _(2022-08-26)_: Introductions
+	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week1.html)
 * [Week 2](week02.md) _(2022-09-02)_: GitHub & Markdown 
+	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week2.html)
 * [Week 3](week03.md) _(2022-09-09)_: CollectionBuilder Introduction
 * [Week 4](week04.md) _(2022-09-16)_: Text Objects 1
 * [Week 5](week05.md) _(2022-09-23)_: Text Objects 2

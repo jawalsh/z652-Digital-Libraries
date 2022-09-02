@@ -23,3 +23,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - Install Visual Studio Code from <https://code.visualstudio.com> (available for MacOS, Windows, and Linux).
 - Install GitHub Desktop from <https://desktop.github.com> (available for MacOS, Windows, and Linux).
 
+### In-class
+- [Markdown exercise](assignment_markdown_exercise.md).
+- GitHub/CollectionBuilder homework for [next week](week03.md).
+
