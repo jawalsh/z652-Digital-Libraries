@@ -4,7 +4,7 @@
 - 2 &mdash; Acceptable 
 - 1 &mdash; Unacceptable
 
-| Element                                                                                               | Score |
+| Element                                                                                               | Score &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ----------------------------------------------------------------------------------------------------- | ----- |
 | **Includes all assignment components**</br> Each component of the assignment is present and complete. | 4 3 2 1 |
 | **Coherent design**</br> There is a clear connection between metadata fields and functional requirements. The chosen fields and choices for cardinality, obligation, controlled vocabularies, syntax encoding schemes, and/or content guidelines facilitate the stated functional requirements. | 4 3 2 1 |
