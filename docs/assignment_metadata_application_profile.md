@@ -32,3 +32,5 @@ For all fields specify:
 - mapping to Dublin Core
 - notes, if relevant
 - examples
+
+## [Rubric](rubric_metadata_application_profile.md)
