@@ -20,6 +20,7 @@ We will learn about the digitization of text-based media, or “text objects,”
 - Install tesseract
 	- On mac, use the [homebrew] command `brew install tesseract`
 	- On windows, use the installer availabe at <https://github.com/UB-Mannheim/tesseract/wiki>
+- Install Adobe Acrobat from <https://iuware.iu.edu/>. 
 
 ## In Class
 - Character Encodings/Unicode
