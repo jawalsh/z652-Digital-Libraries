@@ -14,7 +14,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 
 ### Git and GitHub 
 - Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-git-and-github-14213624/>
-- Git Basics Episode 1: What is Version Contronl? <https://git-scm.com/video/what-is-version-control>
+- Git Basics Episode 1: What is Version Control? <https://git-scm.com/video/what-is-version-control>
 - Git Basics Episode 2: What is Git? <https://git-scm.com/video/what-is-git>
 - Git Basics Episode 3: Get Going with Git <https://git-scm.com/video/get-going>
 - Git Basics Episode 4: Quick Wins with Git <https://git-scm.com/video/quick-wins>
@@ -22,4 +22,8 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 ### Tasks
 - Install Visual Studio Code from <https://code.visualstudio.com> (available for MacOS, Windows, and Linux).
 - Install GitHub Desktop from <https://desktop.github.com> (available for MacOS, Windows, and Linux).
+
+### In-class
+- [Markdown exercise](assignment_markdown_exercise.md).
+- GitHub/CollectionBuilder homework for [next week](week03.md).
 

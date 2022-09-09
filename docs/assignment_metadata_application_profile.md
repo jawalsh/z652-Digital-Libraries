@@ -28,7 +28,9 @@ For all fields specify:
 - obligation
 - cardinality
 - content guidelines
-- applicable controlled vocabularies or syntax encoding shemes (with links)
+- applicable controlled vocabularies or syntax encoding schemes (with links)
 - mapping to Dublin Core
 - notes, if relevant
 - examples
+
+## [Rubric](rubric_metadata_application_profile.md)
