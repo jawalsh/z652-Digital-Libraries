@@ -18,7 +18,8 @@ We will learn about the digitization of text-based media, or “text objects,”
 ### Tasks
 - By Thursday 5pm, respond to [Text Objects 1 discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/3).
 - Install tesseract
-	- On mac, use the [homebrew] command `brew install tesseract`
+	- On mac, use the [homebrew](https://brew.sh) command `brew install tesseract`. 
+	- 	_[Homebrew](https://brew.sh) is package manager that simplifies the process of installing Unix software on your Mac. Installation instructions are available at <https://brew.sh>._
 	- On windows, use the installer availabe at <https://github.com/UB-Mannheim/tesseract/wiki>
 - Install Adobe Acrobat from <https://iuware.iu.edu/>. 
 
