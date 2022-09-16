@@ -38,4 +38,5 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 
 ## In Class
 - Course introduction.
+- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week01.html)
 - [Exploring digital collections](https://github.com/jawalsh/z652-Digital-Libraries/discussions/13) activity.

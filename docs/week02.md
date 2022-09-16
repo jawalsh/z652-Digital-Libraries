@@ -24,6 +24,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - Install GitHub Desktop from <https://desktop.github.com> (available for MacOS, Windows, and Linux).
 
 ### In-class
+- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week02.html)
 - [Markdown exercise](assignment_markdown_exercise.md).
 - GitHub/CollectionBuilder homework for [next week](week03.md).
 
