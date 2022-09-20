@@ -29,5 +29,6 @@ This week we will learn about controlled vocabularies and how they relate to met
 - Witten, et al. (2009). Ch. 7 Interoperability: Protocols and Services. _How to Build a Digital Library._ **only** pp. 343-354.
 - Pomerantz, Jeffery. [Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)](https://youtu.be/fpz4fzKvVTg)
 - Research Data Netherlands. [Persistent Identifiers and Data Citation Explained](https://www.youtube.com/watch?v=PgqtiY7oZ6k)
+- [Persistent Identifers](https://transportation.libguides.com/persistent_identifiers)
 
 ## In class
