@@ -11,6 +11,7 @@ This week we will learn about controlled vocabularies and how they relate to met
 ## Before class: Readings, resources, and tasks
 ### Controlled Vocabularies
 - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 6 "Controlled Vocabularies for Improved Resource Discovery" (pp. 165-186)
+
 **Read the Wikipedia page for all the Getty vocabularies below, and then explore _at least one_ in more detail by reading the Getty “About” and “FAQ” pages and using the online search interface.**  
 
 ##### AAT
