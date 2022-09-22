@@ -7,10 +7,12 @@ This week we will learn about controlled vocabularies and how they relate to met
 - *Explain* what problems with information retrieval and organization a controlled vocabulary solves
 - *Identify* relevant controlled vocabularies and data value standards for a given item.
 - *Identify* relevant controlled vocabularies and data value standards for your CollectionBuilder project
+
 ## Before class: Readings, resources, and tasks
 ### Controlled Vocabularies
 - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 6 "Controlled Vocabularies for Improved Resource Discovery" (pp. 165-186)
 **Read the Wikipedia page for all the Getty vocabularies below, and then explore _at least one_ in more detail by reading the Getty “About” and “FAQ” pages and using the online search interface.**  
+
 ##### AAT
 -   [Art and Architecture ThesaurusLinks to an external site.](https://en.wikipedia.org/wiki/Art_%26_Architecture_Thesaurus). Wikipedia.
 -   [About the ATTLinks to an external site.](http://www.getty.edu/research/tools/vocabularies/aat/about.html). J. Paul Getty Trust.
@@ -25,6 +27,7 @@ This week we will learn about controlled vocabularies and how they relate to met
 -   [Union List of Artist NamesLinks to an external site.](https://en.wikipedia.org/wiki/Union_List_of_Artist_Names). Wikipedia.
 -   [About the ULANLinks to an external site.](http://www.getty.edu/research/tools/vocabularies/ulan/about.html). J. Paul Getty Trust.
 -   [ULAN: Frequently Asked QuestionsLinks to an external site.](http://www.getty.edu/research/tools/vocabularies/ulan/faq.html). J. Paul Getty Trust.
+
 ### Interoperability and OAI-PMH
 - Witten, et al. (2009). Ch. 7 Interoperability: Protocols and Services. _How to Build a Digital Library._ **only** pp. 343-354.
 - Pomerantz, Jeffery. [Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)](https://youtu.be/fpz4fzKvVTg)
