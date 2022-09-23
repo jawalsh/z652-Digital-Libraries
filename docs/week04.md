@@ -18,15 +18,11 @@ We will learn about the digitization of text-based media, or “text objects,”
 ### Tasks
 - By Thursday 5pm, respond to [Text Objects 1 discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/3).
 - Install tesseract
-	- On mac, use the [homebrew] command `brew install tesseract`
+	- On mac, use the [homebrew](https://brew.sh) command `brew install tesseract`. 
+		- _[Homebrew](https://brew.sh) is package manager that simplifies the process of installing Unix software on your Mac. Installation instructions are available at <https://brew.sh>._
 	- On windows, use the installer availabe at <https://github.com/UB-Mannheim/tesseract/wiki>
+- Install Adobe Acrobat from <https://iuware.iu.edu/>. 
 
 ## In Class
-- Character Encodings/Unicode
-- Text digitization workflows
-- FineReader and tesseract demo and exercises
-
-
-
-
-
+- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week04.html)
+- [OCR exercise](assignment_ocr_exercise.md)

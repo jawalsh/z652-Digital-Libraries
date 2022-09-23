@@ -9,6 +9,7 @@ We will learn about what metadata is, different types of metadata, what it's use
 - _design_ "functional requirements" to guide creating a metadata application profile
 - _identify_ relevant Dublin Core elements for a given item
 - *identify* one or more example metadata application profiles that may serve as models for your CollectionBuilder project
+
 ## Before class: Readings, resources, and tasks
 ### Readings
 - Metadata basics
@@ -23,6 +24,7 @@ We will learn about what metadata is, different types of metadata, what it's use
 - Metadata Application Profile assignment
  - Skim the instructions for the metadata application profile assignment
  - Come to class with any initial questions
+
 ### Tasks
  - READ: Please complete the readings outlined above by: Thursday, 5pm.
  - DISCUSS: Please complete this week's discussion by: Thursday, 5pm.
