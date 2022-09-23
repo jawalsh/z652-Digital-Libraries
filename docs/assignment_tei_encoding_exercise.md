@@ -38,7 +38,7 @@ Apply the correct bibliographic details to your `<sourceDesc>` description. You 
 
 Below are files for each student:
 
-- Kaela, [ff0003-01.txt](resources/ff_fan_mail/ff0003-01.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
+- Kaela, [ff0003-01.txt](z652-Digital-Libraries/resources/ff0003-01.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - Jerome, [ff0003-02.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-02.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - MarQuis, [ff0003-03.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-03.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - Seth, [ff0003-04.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-04.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
