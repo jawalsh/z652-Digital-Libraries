@@ -24,6 +24,7 @@
 - Install Oxygen XML software from <https://iuware.iu.edu/>.
 
 ## In class
+- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week05.html)
 - [Genre Encoding Exercises](https://dcl.ils.indiana.edu/teiworkshop/genres.html)
 ### Encoding exercise (for submission in Canvas)
 - [TEI Encoding Exercise: Fan Mail](assignment_tei_encoding_exercise.html)
