@@ -13,7 +13,7 @@ Transcribe one item of fan mail to Marvel Comics _Fantastic Four_. Use the follo
 </div>
 ```
 
-You may use this [template](resources/fan_mail_template.xml): [fan_mail_template.xml](resources/fan_mail_template.xml)
+You may use this [template](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/fan_mail_template.xml): [fan_mail_template.xml]([resources/](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/fan_mail_template.xml)
 
 Elements you should use, if applicable in your document, include:
 
@@ -39,7 +39,7 @@ Apply the correct bibliographic details to your `<sourceDesc>` description. You 
 Below are files for each student:
 
 - Kaela, [ff0003-01.txt](z652-Digital-Libraries/resources/ff0003-01.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
-- Jerome, [ff0003-02.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-02.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
+- Jerome, [ff0003-02.txt](https://github.com/jawalsh/z652-Digital-Libraries/blob/main/resources/ff_fan_mail/ff0003-02.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - MarQuis, [ff0003-03.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-03.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - Seth, [ff0003-04.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-04.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
 - Kathryn, [ff0003-05.txt](z652-Digital-Libraries/resources/ff_fan_mail/ff0003-05.txt), [ff0003.png](https://iu.instructure.com/files/145486768/download?download_frd=1)
