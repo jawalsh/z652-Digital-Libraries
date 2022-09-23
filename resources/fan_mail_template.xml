@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>“Fantastic Four Fan Page”: Fan Mail from <bibl>
+                  <title rendition="#i">The Fantastic Four</title>
+                  <biblScope>1961-</biblScope>
+               </bibl>
+            </title>
+            <respStmt>
+               <resp>Transcribed and encoded by </resp>
+               <persName><ref target="mailto:@iu.edu"><!-- Your name and email. --></ref></persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher/>
+            <availability status="restricted">
+               <p>Data have been compiled for research and teaching purposes.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <title>Fantastic Four Fan Page</title>
+               </analytic>
+               <monogr>
+                  <title>The Fantastic Four</title>
+                  <imprint>
+                     <publisher>Marvel Comics</publisher>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="issue"><!-- issue number --></biblScope>
+                     <date when="196x-xx"/><!-- correct month and date -->
+                     <!-- Correct year and date -->
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="b" n="bold" scheme="css"> font-weight:bold; </rendition>
+            <rendition xml:id="i" n="italic" scheme="css"> font-style:italic; </rendition>
+            <rendition xml:id="u" n="underline" scheme="css"> text-decoration:underline; </rendition>
+            <rendition xml:id="n" n="normal" scheme="css"> font-weight:normal; text-decoration:none;
+               font-style:normal; </rendition>
+            <rendition xml:id="uppercase" n="uppercase" scheme="css"> text-transform:uppercase;
+            </rendition>
+         </tagsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="group">
+            <div type="letter">
+               <p/>
+            </div>
+            <div type="reply">
+               <p/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
