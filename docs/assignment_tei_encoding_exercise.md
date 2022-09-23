@@ -13,7 +13,7 @@ Transcribe one item of fan mail to Marvel Comics _Fantastic Four_. Use the follo
 </div>
 ```
 
-You may use this [template](fan_mail_template.xml): [fan_mail_template.xml](fan_mail_template.xml)
+You may use this [template](/resources/fan_mail_template.xml): [fan_mail_template.xml](/resources/fan_mail_template.xml)
 
 Elements you should use, if applicable in your document, include:
 
@@ -30,10 +30,10 @@ Elements you should use, if applicable in your document, include:
 
 Apply the correct bibliographic details to your `<sourceDesc>` description. You may find bibliographic details at:
 
-- [_Fantastic Four_ #3](https://www.comics.org/issue/16830/) (for files starting with "ff003")
-- [_Fantastic Four_ #4](https://www.comics.org/issue/16933/) (for files starting with "ff004")
-- [_Fantastic Four_ #5](https://www.comics.org/issue/17043/) (for files starting with "ff005")
-- [_Fantastic Four_ #6](https://www.comics.org/issue/17152/) (for files starting with "ff006")
+- [_Fantastic Four_ #3](https://www.comics.org/issue/16830/) (for files starting with "ff0003")
+- [_Fantastic Four_ #4](https://www.comics.org/issue/16933/) (for files starting with "ff0004")
+- [_Fantastic Four_ #5](https://www.comics.org/issue/17043/) (for files starting with "ff0005")
+- [_Fantastic Four_ #6](https://www.comics.org/issue/17152/) (for files starting with "ff0006")
 		
 
 Below are files for each student:
