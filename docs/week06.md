@@ -31,9 +31,8 @@ We will learn about what metadata is, different types of metadata, what it's use
 
 ## In class
 - Review of Markdown and XML labs
-- Introduction to metadata
-  - Functional requirements
-    - [SUCHO](https://www.sucho.org/) metadata guidelines
+- [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing)
+  - [SUCHO](https://www.sucho.org/) metadata guidelines
 - Discuss the metadata application profile assignment (due Week 9)
 - [Metadata and Functional Requirements Lab](assignment_metadata_practice.md)
 
