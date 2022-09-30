@@ -50,7 +50,8 @@ We will be using the following tools, software, frameworks:
 * [IU Digital Library Brown Bag Series]( https://libraries.indiana.edu/digital-library-brown-bag-series)
 - [Institute for Digital Arts and Humanities](https://idah.indiana.edu), especially see the [events]( https://idah.indiana.edu/news-events/) page.
 * [IU Metadata Discussion Group](https://blogs.libraries.iub.edu/metadata/)
-* LinkedIn Leraning tutorials available through <https://one.iu.edu/>: Lots of great tutorials on programming, XML, Web development, and other IT topics.
+* LinkedIn Learning tutorials available through <https://one.iu.edu/>: Lots of great tutorials on programming, XML, Web development, and other IT topics. 
+	- We will be using the command-line tools for exercises and assignments in this class. If you are not familiar with the MacOS/Windows/Linux command line, then I urge you to view some LinkedIn Learning tutorials on using the command line for your operating system. 
 
 ### External Resources
 * [Level Up](https://mcpl.info/levelup/level-digital-creativity-center) workshops at Monroe County Public Library (MCPL)
