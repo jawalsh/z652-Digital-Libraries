@@ -19,3 +19,5 @@ One person should turn in for your whole group:
 - List of functional requirements
 - List or table of metadata fields with cardinality, obligation, and mapping to Dublin Core.
 - 1 metadata record based on the metadata application profile. If you finish this record, do a second record for the other item.
+
+When you are finished, turn this into Canvas as Word, PDF, or Markdown file.
