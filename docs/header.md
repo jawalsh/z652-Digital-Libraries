@@ -5,7 +5,7 @@ Myles Brand Hall (I) 232
 *Office Hours:* Monday 3pm - 4:30pm and by appointment.  
 
 *Associate Instructor:* [Alex Wingate](http://alexandraewingate.com), [alewinga@iu.edu](mailto:alewinga@iu.edu)  
-*Office Hours:* Tuesday 10am - 11am and by appointment on Zoom ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2084986/users/6407854))
+*Office Hours:* Thursdays 8:30am - 10:00am and by appointment on Zoom ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2084986/users/6407854))
 
 
 
