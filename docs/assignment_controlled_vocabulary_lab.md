@@ -11,3 +11,4 @@ For each vocabulary:
     - What fields could it be applied to in your projects?
     - What potential functional requirements of your projects could it support?
 
+When you're finished, one group member should turn the assignment in to Canvas. 
