@@ -36,7 +36,7 @@ This week we will learn about controlled vocabularies and how they relate to met
 - [Persistent Identifers](https://transportation.libguides.com/persistent_identifiers)
 
 ## In class
-- slides
+- [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing)
 - Questions on project proposals
 - Questions on upcoming metadata assignment
 - [Controlled vocabulary lab](assignment_controlled_vocabulary_lab.md)
