@@ -43,3 +43,7 @@ This week we will learn about:
     *   Windows: Download and run the [ImageMagick installer](https://imagemagick.org/script/download.php#windows).
     *   Additional downloads and instructions are available at <https://imagemagick.org/script/download.php>.
 *   **INSTALL** Adobe Photoshop, part of the Creative Cloud suite, from <https://adobe.iu.edu/>.
+
+## In class
+- [ImageMagick Lab](lab_imagemagick.md)
+- [Photoshop Batch Processing Lab](lab_photoshop_batch.md)
