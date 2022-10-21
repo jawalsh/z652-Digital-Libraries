@@ -45,5 +45,7 @@ This week we will learn about:
 *   **INSTALL** Adobe Photoshop, part of the Creative Cloud suite, from <https://adobe.iu.edu/>.
 
 ## In class
+- Demo of [Scalable Vector Graphic](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (SVG) files are used in a scholarly digital edition/collection, the [Petrarchive](http://petrarchive.org/).
+	- <https://github.com/Petrarchive/The-Petrarchive/blob/master/images/visindex/c003r.svg>
 - [ImageMagick Lab](lab_imagemagick.md)
 - [Photoshop Batch Processing Lab](lab_photoshop_batch.md)
