@@ -43,6 +43,7 @@ We will be using the following tools, software, frameworks:
 * [W3Schools HTML tutorial](https://www.w3schools.com/html/default.asp)
 * [W3Schools HTML element reference](https://www.w3schools.com/tags/default.asp)
 * [Butterick's Practical Typography](https://practicaltypography.com/)
+* [Commandline Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) (you'll mostly need the directory commands)
 
 ### IU Resources
 * [IT Training from UITS](http://ittraining.iu.edu)
