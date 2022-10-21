@@ -2,7 +2,7 @@
 
 In groups of 2-3, you will be researching controlled vocabularies that would potentially be useful to your final projects. 
 
-Collectively, you need to identify at least 4 controlled vocabularies that would be useful in your final projects. One controlled vocabulary might be applicable to multiple members of your group. 
+Collectively, you need to identify at least 6 controlled vocabularies that would be useful in your final projects. One controlled vocabulary might be applicable to multiple members of your group. 
 
 For each vocabulary:
 1. Give a brief description of what the vocabulary describes (e.g., the TGM is used to describe geographic places)
