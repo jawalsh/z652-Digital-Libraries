@@ -10,6 +10,8 @@ This week we will learn about:
 - *install* and *run* the [cantaloupe](https://cantaloupe-project.github.io/) IIIF image server.
  
 ## Before class: Readings, resources, and tasks
+
+### Readings
 More digitization guidelines and best practices:
 - Federal Agencies Digital Guidelines Initiative. [Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Files](http://www.digitizationguidelines.gov/guidelines/FADGI%20Federal%20%20Agencies%20Digital%20Guidelines%20Initiative-2016%20Final_rev1.pdf)
 - Library of Congress. [Technical Standards for Digital Conversion Of Text and Graphic Materials](http://memory.loc.gov/ammem/about/techStandards.pdf)
@@ -21,6 +23,10 @@ International Image Interoperability Framework (IIIF)
 
 Images in research
 - Lorang, E., Leen-Keat, S., Datla, M. V., & Kulwicki, S. (2015). “[Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections](http://www.dlib.org/dlib/july15/lorang/07lorang.html).”
+
+### Tasks
+- READ: Please complete the readings outlined above by: Thursday, 5pm.
+- DISCUSS: Please complete [this week's discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/21) by: Thursday, 5pm.
  
 ## In class
 
