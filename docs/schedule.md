@@ -32,7 +32,23 @@ CollectionBuilder topics:
 
 - CB metadata. <https://collectionbuilder.github.io/cb-docs/docs/metadata/>
 - CB theme optoins. <https://collectionbuilder.github.io/cb-docs/docs/theme/>
+	- `theme.yml`
+	- add venues to `subjects-fields`.
+	- add rock concerts (or whatever it is) to `subjects-stopwords`
+	
 - CB edit pages. <https://collectionbuilder.github.io/cb-docs/docs/pages/>
-- CB 
+- Site Config -> URL Variables
+	- add code repository
+	- 
+- Theme Options -> Map Page
+	- change `map base` and `zoom-level`
+	
+- Theme Options -> Data
+	- explain, demo
+	- `metadata-facets-fields`?
+	
+- Advanced Options 
+	- `bootswatch`
+	
 
 -->
