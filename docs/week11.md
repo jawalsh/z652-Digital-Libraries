@@ -17,8 +17,8 @@ This week we will learn about:
 - _navigate_ and _use_ CollectionBuilder documentation effectively.
 - _configure_ CollectionBuilder by editing relevant configuration files.
 - _edit_ existing CollectionBuilder pages.
-_ _create_ new CollectionBuilder pages.
-_ _use_ CollectionBuilder’s “feature includes” to embed multimedia and interface features in your CollectionBuilder pages.
+- _create_ new CollectionBuilder pages.
+- _use_ CollectionBuilder’s “feature includes” to embed multimedia and interface features in your CollectionBuilder pages.
  
 ## Before class: Readings, resources, and tasks
 
@@ -32,4 +32,4 @@ There will be no discussion this week, but you should post questions or insights
  
 ## In class
 
-Class time will be devoted to working on your final projects enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
+Class time will be devoted to working on your final projects and enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
