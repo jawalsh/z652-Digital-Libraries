@@ -3,10 +3,12 @@
 Myles Brand Hall (I) 232  
 *Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu), Luddy Hall 2132.  
 *Office Hours:* Monday 3pm - 4:30pm and by appointment.  
+John’s demo CollectionBuilder Site: [Rock Show](https://jawalsh.github.io/rock-show/)
+
 
 *Associate Instructor:* [Alex Wingate](http://alexandraewingate.com), [alewinga@iu.edu](mailto:alewinga@iu.edu)  
 *Office Hours:* Thursdays 8:30am - 10:00am and by appointment on Zoom ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2084986/users/6407854))  
-  [Alex's demo CollectionBuilder site](https://aewingate.github.io/cb_demo/)
+Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/cb_demo/)
 
 
 
