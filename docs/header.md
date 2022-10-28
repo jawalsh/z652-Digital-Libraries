@@ -6,6 +6,7 @@ Myles Brand Hall (I) 232
 
 *Associate Instructor:* [Alex Wingate](http://alexandraewingate.com), [alewinga@iu.edu](mailto:alewinga@iu.edu)  
 *Office Hours:* Thursdays 8:30am - 10:00am and by appointment on Zoom ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2084986/users/6407854))
+  [Alex's demo CollectionBuilder site](https://aewingate.github.io/cb_demo/)
 
 
 
