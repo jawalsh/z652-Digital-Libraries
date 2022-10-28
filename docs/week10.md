@@ -30,6 +30,9 @@ Images in research
  
 ## In class
 
+- Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
+- [Metadata Crosswalking Lab](lab_metadata_crosswalk.md)
+
 <!--
 	
 CollectionBuilder topics:
