@@ -34,15 +34,10 @@ Images in research
 - [Next week](week11.md)
 - [CBML/IIIF Demo](https://biblicon.org/fc15)
 - Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
+	- _Optional:_ Try the above tutorial with some comic book page images:
+		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_01.tif/full/max/0/default.jpg>
+		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_02.tif/full/max/0/default.jpg>
+		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_03.tif/full/max/0/default.jpg>
+- _Optional:_ Try installing [cantaloupe](https://cantaloupe-project.github.io) IIIF image server on your own machine.
 - [Metadata Crosswalking Lab](lab_metadata_crosswalk.md)
 - [HathiTrust Research Center: Overview](https://biblicon.org/reveal.js/htrc.html)
-<!--
-	
-CollectionBuilder topics:
-
-- CB metadata. <https://collectionbuilder.github.io/cb-docs/docs/metadata/>
-- CB theme optoins. <https://collectionbuilder.github.io/cb-docs/docs/theme/>
-- CB edit pages. <https://collectionbuilder.github.io/cb-docs/docs/pages/>
-- CB 
-
--->
