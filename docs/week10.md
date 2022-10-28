@@ -30,9 +30,11 @@ Images in research
  
 ## In class
 
+- Final projects. Where are you? Where should you be?
+- [Next week](week11.md)
 - Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
 - [Metadata Crosswalking Lab](lab_metadata_crosswalk.md)
-
+- [HathiTrust Research Center: Overview](https://biblicon.org/reveal.js/htrc.html)
 <!--
 	
 CollectionBuilder topics:
