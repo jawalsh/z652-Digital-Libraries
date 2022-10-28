@@ -19,7 +19,7 @@ International Image Interoperability Framework (IIIF)
 - Wikipedia. [International Image Interoperability Framework](https://en.m.wikipedia.org/wiki/International_Image_Interoperability_Framework)
 - O’Hearn, Meg (2020). <https://youtu.be/wVjrqsqzwNI>
 - Rabun, Sheila. “[What is IIF?](https://youtu.be/8LiNbf4ELZM)” 
-- Everything you ever wanted to know about IIIF…](https://www.slideshare.net/mobile/Cogapp/everything-you-ever-wanted-to-know-about-iiif-but-were-too-afraid-to-ask)
+- [Everything you ever wanted to know about IIIF…](https://www.slideshare.net/mobile/Cogapp/everything-you-ever-wanted-to-know-about-iiif-but-were-too-afraid-to-ask)
 
 Images in research
 - Lorang, E., Leen-Keat, S., Datla, M. V., & Kulwicki, S. (2015). “[Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections](http://www.dlib.org/dlib/july15/lorang/07lorang.html).”
