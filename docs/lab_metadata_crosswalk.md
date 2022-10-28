@@ -1,4 +1,4 @@
-# Z652 Metadata Crosswalking XSLT Lab
+# Metadata Crosswalking XSLT Lab
 
 _Oxygen help on creating XML transformations with XSLT is available at [https://www.oxygenxml.com/doc/versions/22.1/ug-editor/topics/xml-transformation-with-xslt.html](https://www.oxygenxml.com/doc/versions/22.1/ug-editor/topics/xml-transformation-with-xslt.html)_.
 
