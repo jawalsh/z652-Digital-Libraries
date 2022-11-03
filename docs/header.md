@@ -12,6 +12,6 @@ Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/
 
 
 
-[home](index.html) \| [general information](general.html) \| [schedule](schedule.html) \| [assignments](assignments.html) \| [discussions](https://github.com/jawalsh/z652-Digital-Libraries/discussions)
+[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) \| [discussions](https://github.com/jawalsh/z652-Digital-Libraries/discussions)
 
 ---
