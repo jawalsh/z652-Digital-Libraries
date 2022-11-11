@@ -23,4 +23,5 @@
 - Your collection makes use of CollectionBuilder’s “Feature Includes” to add additional features and functionality. See <https://collectionbuilder.github.io/cb-docs/docs/pages/features/>. 
 - An “About” page is included with a summary of the staff (you), acknowledgments of those who contributed to the project; the technical and metadata standards used in the collection; and any applicable rights and use information;
 - Writing and video presentation are clear and professional and error free;
+- Video presentation does not exceed 7 minutes.
 - The introductory page(s), exhibit(s), and any other contextual information go beyond providing minimal background information and presentation of facts, demonstrate more extensive research and thoughtfulness about the content, and attempt to tell a story with and about the content.
