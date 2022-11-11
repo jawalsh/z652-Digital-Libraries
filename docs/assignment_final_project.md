@@ -20,7 +20,9 @@ You are the digital projects librarian at a small liberal arts college. The libr
 3. Prepare a 5-7 minute video presentation to share your work for your instructors and fellow students. In your video presentation you should 
 	- provide a brief overview of the content, significance, and audience of your collection; 
 	- show one or more items from your collection and discuss the metadata, especially additional metadata fields (beyond the standard CollectionBuilder fields) that you used in your collection;
-	- demonstrate customizations, configuration, contextual pages, and exhibits that you created.  
+	- demonstrate contextual pages and exhibits that you created
+	- demonstrate one or more advanced features that you implemented;  
+	- discuss any challenges, accomplishments, or discoveries that occurred during the development of your project.
 	**_Your presentation should not exceed 7 minutes._**
 
 
