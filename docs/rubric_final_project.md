@@ -9,7 +9,14 @@
 	- Metadata conforms to specifications outlined in the CollectionBuilder[cb] documentation and to previously established metadata guidelines for your project;
 	- Includes one or more pages, in addition to the standard CollectionBuilder pages, that introduces the content and context of the collection. See <https://collectionbuilder.github.io/cb-docs/docs/pages/interpretive/> and <https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/>;
 - Submit a short report (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of Omeka as a platform for showcasing your college’s digital collections and making a recommendation about whether to move forward with implementing Omeka for your college.
-- Submit a 5-7 minute video presentation of about your final project posted to the “Final Project Presentation” discussion.
+- Submit a 5-7 minute video presentation of about your final project posted to the “Final Project Presentation” discussion. In your video presentation you should 
+	- provide a brief overview of the content, significance, and audience of your collection; 
+	- show one or more items from your collection and discuss the metadata, especially additional metadata fields (beyond the standard CollectionBuilder fields) that you used in your collection;
+	- demonstrate contextual pages and exhibits that you created
+	- demonstrate one or more advanced features that you implemented;  
+	- discuss any challenges, accomplishments, or discoveries that occurred during the development of your project.
+	**_Your presentation should not exceed 7 minutes._**
+
 
 ## For a grade of B your prototype must be complete and competent, demonstrate your ability to implement a collection using [CollectionBuilder][cb], and include advanced metadata features beyond simple Dublin Core.
 - The standards for the C grade are met;
