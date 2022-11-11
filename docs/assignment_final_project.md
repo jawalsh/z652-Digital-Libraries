@@ -45,7 +45,8 @@ Submit a 5-7 minute video presentation of about your final project posted to the
 - demonstrate contextual pages and exhibits that you created
 - demonstrate one or more advanced features that you implemented;  
 - discuss any challenges, accomplishments, or discoveries that occurred during the development of your project.
-**_Your presentation should not exceed 7 minutes._**
+
+**_Your presentation must not exceed 7 minutes._**
 
 ## Deliverables
 
