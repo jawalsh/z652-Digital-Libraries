@@ -1,5 +1,5 @@
 [cb]: https://collectionbuilder.github.io "CollectionBuilder"
-# Final Projecet
+# Final Project
 
 ## Purpose
 You will build a digital collection with [CollectionBuilder][cb] to gain competence with CollectionBuilder and integrate and demonstrate knowledge and skills of digitization and metadata for digital collections.
@@ -9,33 +9,18 @@ You are the digital projects librarian at a small liberal arts college. The libr
 
 ## Description
 
-1. Develop a prototype CollectionBuilder site:
-	- Identify a collection of non-digital content (24-36 items).
-	- Digitize the content, following relevant standards and best practices.
-	- Create rich, robust metadata for the content, following relevant standards and best practices.
-	- Use CollectionBuilder’s capabilities to create web pages and online exhibits to integrate contextual information with the digitized content.
-	
-2. Based on your experience implementing this prototype collection, write a short report (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of CollectionBuilder as a platform for showcasing your college’s digital collections and making a recommendation about whether or not to move forward with implementing CollectionBuilder for your college. See “[How to Write a Memo](https://www.grammarly.com/blog/how-to-write-memo/)” for some helpful guidance.
-
-3. Prepare a 5-7 minute video presentation to share your work for your instructors and fellow students. In your video presentation you should 
-	- provide a brief overview of the content, significance, and audience of your collection; 
-	- show one or more items from your collection and discuss the metadata, especially additional metadata fields (beyond the standard CollectionBuilder fields) that you used in your collection;
-	- demonstrate contextual pages and exhibits that you created
-	- demonstrate one or more advanced features that you implemented;  
-	- discuss any challenges, accomplishments, or discoveries that occurred during the development of your project.
-	**_Your presentation should not exceed 7 minutes._**
 
 ### 1. CollectionBuilder site
 
 Develop a prototype CollectionBuilder site that meets the following criteria:	
-	- Site ncludes 24 or more digitized items that conform digitized following relevant digitization standards and best practices;
-	- Each item includes all appropriate required and option CollectionBuilder metadata elements (see <https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/>); 
-	- Metadata conforms to specifications outlined in the CollectionBuilder[cb] documentation and to previously established metadata guidelines for your project;
-	- Site ncludes one or more pages, in addition to the standard CollectionBuilder pages, that introduces the content and context of the collection. See <https://collectionbuilder.github.io/cb-docs/docs/pages/interpretive/> and <https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/>;
+- Site ncludes 24 or more digitized items that conform digitized following relevant digitization standards and best practices;
+- Each item includes all appropriate required and option CollectionBuilder metadata elements (see <https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/>); 
+- Metadata conforms to specifications outlined in the CollectionBuilder[cb] documentation and to previously established metadata guidelines for your project;
+- Site ncludes one or more pages, in addition to the standard CollectionBuilder pages, that introduces the content and context of the collection. See <https://collectionbuilder.github.io/cb-docs/docs/pages/interpretive/> and <https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/>;}
 
 ### 2. Evaluation memo
 
-Based on your experience implementing this prototype collection, submit a short report (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of Omeka as a platform for showcasing your college’s digital collections and making a recommendation about whether to move forward with implementing Omeka for your college. See “[How to Write a Memo](https://www.grammarly.com/blog/how-to-write-memo/)” for some helpful guidance.
+Based on your experience implementing this prototype collection, submit a short report (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of CollectionBuilder as a platform for showcasing your college’s digital collections and making a recommendation about whether to move forward with implementing CollectionBuilder for your college. See “[How to Write a Memo](https://www.grammarly.com/blog/how-to-write-memo/)” for some helpful guidance.
 
 ### 3. Video presentation
 
