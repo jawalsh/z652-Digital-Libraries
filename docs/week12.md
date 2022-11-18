@@ -29,10 +29,4 @@ There will be no discussion this week, but you should post questions or insights
  
 ## In class
 
-- [post-test](https://iu.instructure.com/courses/2084986/quizzes/3775901)
-- [course questionnaire](https://iu.instructure.com/courses/2084986/external_tools/207560)
-- Review final project submissions
-	- [Final Project](https://iu.instructure.com/courses/2084986/assignments/14220071)
-	- [Final Project Presentation](https://iu.instructure.com/courses/2084986/discussion_topics/12239817)
-	
-The rest of class time will be devoted to working on your final projects and enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
+Class time will be devoted to working on your final projects and enhancing your CollectionBuilder project with the configuration and page-building techniques that we are learning about this week.
