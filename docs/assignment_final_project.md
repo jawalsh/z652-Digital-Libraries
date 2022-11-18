@@ -37,8 +37,8 @@ Submit a 5-7 minute video presentation of about your final project posted to the
 
 In Canvas, submit:
 
-1. In the final project assignment in Canvas, submit your short memo (item 2 above _**and inlcude a link to your prototype collection (item 1 above) in the report**_.
-2. In the Final Project Presentation discussion on Canvas, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
+1. In the [final project assignment](https://iu.instructure.com/courses/2084986/assignments/14220071) in Canvas, submit your short memo (item 2 above _**and inlcude a link to your CollectionBuilder site (item 1 above) in the memo**_.
+2. In the [Final Project Presentation](https://iu.instructure.com/courses/2084986/discussion_topics/12239817) discussion on Canvas, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
 
 ## Criteria for Success
 
