@@ -20,7 +20,7 @@ Develop a prototype CollectionBuilder site that meets the following criteria:
 
 ### 2. Evaluation memo
 
-Based on your experience implementing this prototype collection, submit a short report (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of CollectionBuilder as a platform for showcasing your college’s digital collections and making a recommendation about whether to move forward with implementing CollectionBuilder for your college. See “[How to Write a Memo](https://www.grammarly.com/blog/how-to-write-memo/)” for some helpful guidance.
+Based on your experience implementing this prototype collection, submit a short memo (no more than 2 single-spaced pages) to library administrators and senior IT staff advising them about the pros and cons of CollectionBuilder as a platform for showcasing your college’s digital collections and making a recommendation about whether to move forward with implementing CollectionBuilder for your college. See “[How to Write a Memo](https://www.grammarly.com/blog/how-to-write-memo/)” for some helpful guidance.
 
 ### 3. Video presentation
 
@@ -37,7 +37,7 @@ Submit a 5-7 minute video presentation of about your final project posted to the
 
 In Canvas, submit:
 
-1. In the final project assignment in Canvas, submit your short report (item 2 above_ and inlcude a link to your prototype collection (item 1 above) in the report.
+1. In the final project assignment in Canvas, submit your short memo (item 2 above _**and inlcude a link to your prototype collection (item 1 above) in the report**_.
 2. In the Final Project Presentation discussion on Canvas, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
 
 ## Criteria for Success
