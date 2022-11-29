@@ -13,7 +13,7 @@ You are the digital projects librarian at a small liberal arts college. The libr
 ### 1. CollectionBuilder site
 
 Develop a prototype CollectionBuilder site that meets the following criteria:	
-- Site ncludes 24 or more digitized items that conform digitized following relevant digitization standards and best practices;
+- Site includes 24 or more digitized items that conform digitized following relevant digitization standards and best practices;
 - Each item includes all appropriate required and option CollectionBuilder metadata elements (see <https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/>); 
 - Metadata conforms to specifications outlined in the CollectionBuilder[cb] documentation and to previously established metadata guidelines for your project;
 - Site ncludes one or more pages, in addition to the standard CollectionBuilder pages, that introduces the content and context of the collection. See <https://collectionbuilder.github.io/cb-docs/docs/pages/interpretive/> and <https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/>;}
