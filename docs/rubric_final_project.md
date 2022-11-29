@@ -10,7 +10,7 @@
 ## For a grade of B your prototype must be complete and competent, demonstrate your ability to implement a collection using [CollectionBuilder][cb], and include advanced metadata features beyond simple Dublin Core.
 - The standards for the C grade are met;
 - Digital files are of professional quality and free from obvious defects (e.g., they are not crooked or out of focus);
-- Additional metadata fields the specific content of your collection are implemented;
+- Additional metadata fields describing the specific content of your collection are implemented;
 - Relevant existing controlled vocabularies and content standards and/or project-specific controlled vocabularies and content standards are used;
 - Your report to library administrators and senior IT staff and your video presentation are thoughtful and supported by specifics and details from your experience working with CollectionBuilder.
 
