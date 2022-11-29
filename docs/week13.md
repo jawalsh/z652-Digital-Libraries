@@ -1,4 +1,4 @@
-# Week 12: CollectionBuilder: Deployment, Advanced Topics, and Extras
+# Week 13: CollectionBuilder: Final project lab
 
 ## Summary
 
