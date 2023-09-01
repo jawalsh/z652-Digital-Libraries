@@ -7,4 +7,4 @@ The file [markdown_exercise.txt](https://github.com/jawalsh/z652-Digital-Librari
 **Image link: ** <http://www.digitalhumanities.org/dhq/vol/6/1/000117/resources/images/walsh_2012_figure06.jpg>
 
 ## Submission
-Submit your completed markdown file (`.md` or `.markdown`) in the [Markdown exercise](https://iu.instructure.com/courses/2084986/assignments/14067971) Canvas assignment.
+Submit your completed markdown file (`.md` or `.markdown`) in the [Markdown exercise](https://iu.instructure.com/courses/2169110/assignments/15430157) Canvas assignment.
